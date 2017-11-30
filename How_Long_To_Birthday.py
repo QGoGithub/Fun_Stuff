@@ -19,4 +19,5 @@ print "-" * 25
 birthday = datetime.datetime(2014,11,04)
 
 print "Birthday in ... ", birthday - now
+
 print "-" * 25
